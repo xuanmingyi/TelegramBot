@@ -26,3 +26,4 @@ dist
 AUTHORS
 ChangeLog
 tags
+local_settings.py
